@@ -1,0 +1,1 @@
+ALTER TABLE public.chittype ADD COLUMN amount numeric;
